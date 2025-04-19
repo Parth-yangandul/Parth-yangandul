@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/sebasrp/sebasrp/master/cyberpunk.pixelart.Akito_One.gif)
 # 💫 About Me:
 👋 Hi there! I'm Parth Yangandul<br><br>    🎓 Data Science Undergraduate (3rd Year)<br>    🚀 Passionate about Machine Learning, AI, and Data Analytics<br>    🛠️ Experienced with Python, SQL, Git, Power BI, Tableau<br>    📊 Interested in ML Ops, Gen AI, and Cloud Computing<br>    🔍 Currently exploring Data Pipelines and MLOps<br>   📫 How to reach me: parthyangandul@gmail.com
 
